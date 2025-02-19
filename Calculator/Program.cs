@@ -50,6 +50,6 @@ class Program
         }
 
         if (isValid)
-            Console.WriteLine("The result is: {0}", result);
+            Console.WriteLine("The result is : {0}", result);
     }
 }
